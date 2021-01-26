@@ -13,3 +13,7 @@ The following outputs will be produced:
 ## Resources
 - Data Source: Mapbox API, https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson, https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/4.5_week.geojson,  https://raw.githubusercontent.com/fraxen/tectonicplates/master/GeoJSON/PB2002_boundaries.json
 - Software: Laflet, GeoJson, JavaScript, HTML, D3, CSS, VSCode
+
+## Output
+
+## Resources
