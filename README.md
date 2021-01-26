@@ -16,7 +16,7 @@ The following outputs will be produced:
 
 ## Output
 
-  - Eartquakes
+  - Earthquakes
   
 ![Map](/map.png)
 
