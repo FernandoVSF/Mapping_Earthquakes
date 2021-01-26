@@ -16,4 +16,7 @@ The following outputs will be produced:
 
 ## Output
 
-## Resources
+  - Eartquakes
+  
+![Map](/map.png)
+
